@@ -1,0 +1,32 @@
+<!-- about page -->
+<p>
+ Hello there,
+
+My name is Rudranil Kundu. As of 2020 I have completed my graduation in Computer Science and Engineering.
+
+I live and work in West Bengal, India. I spend most of my day, experimenting with HTML, CSS and
+JavaScript (and its endless list of frameworks). I enjoy coding and the
+challenge of learning something new everyday.
+
+So enough of my work and professional experiences, now let's move onto some interesting stuff about me.
+
+So, other than my small scale projects and interest in software developement, I am also a fitness Enthusiast. I have been in this field for about six years and it's an integral part of my life. Everyday I look up for my training session which works as a therapy session for me. 
+</p>
+<p>
+You can also reach me on my personal instagram page at
+<a href="https://www.instagram.com/rudranilkundu/?hl=en" target="_blank">@rudranilkundu </a>
+
+Apart from that I have also been into music and have some experience in hiphop dancing as well.
+
+so these are a few things that I could tell you about myself.
+</p>
+
+<!-- contact page-->
+<p>
+  If you are looking to get ahold of me, you can send me an email at
+  <a href="mailto:email@email.com">@your_email</a>
+</p>
+<p>
+  You can also reach me on Twitter at
+  <a href="https://www.twitter.com">@your_social_media </a>
+</p>
